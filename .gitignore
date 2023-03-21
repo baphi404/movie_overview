@@ -4,5 +4,5 @@
 ### ENV File ###
 .env
 
-### ENV File ###
-node_modules
+### dependencies ###
+/node_modules
